@@ -1,0 +1,228 @@
+package com.bluepixel.pattern;
+/*
+// A
+Abstract factory pattern
+Active object
+Active record pattern
+Adapter pattern
+Aggregate pattern
+Amelioration pattern
+Archetype pattern
+Architectural pattern
+Wikipedia talk:Articles for creation/Step Builder Pattern
+Asynchronous method invocation
+// B
+Back-off pattern
+Balking pattern
+Barton�Nackman trick
+Behavioral pattern
+Bridge pattern
+Broker Pattern
+Builder pattern
+// C
+Canonical Model
+Chain-of-responsibility pattern
+Circuit breaker design pattern
+Command pattern
+Composite pattern
+Concurrency pattern
+Creational pattern
+Criteria Pattern
+Curiously recurring template pattern
+// D
+Data access object
+Data mapper pattern
+Data transfer object
+Data, context and interaction
+Debugging patterns
+Decorator pattern
+Delegation pattern
+Dependency injection
+Dependency inversion principle
+Design pattern
+Design Patterns
+Differentiated service
+Dispose pattern
+Distributed design patterns
+Double dispatch
+Double-chance function
+Double-checked locking
+// E
+Enterprise Integration Patterns
+Exception chaining
+Extensibility pattern
+// F
+Facade pattern
+Factory method pattern
+Factory (software concept)
+Fluent interface
+Flyweight pattern
+Front Controller pattern
+Fundamental pattern
+// G
+Guarded suspension
+// H
+Hash consing
+Head�body pattern
+Hierarchical visitor pattern
+Hollywood principle
+// I
+Identity map pattern
+Initialization-on-demand holder idiom
+Interaction design pattern
+Interceptor pattern
+Interpreter pattern
+Inversion of control
+Iterator pattern
+// L
+Lazy inheritance
+Lazy initialization
+Lazy loading
+// M
+Mangler pattern
+Marker interface pattern
+Mediator pattern
+Memento pattern
+Message broker
+Mock object
+Model 1
+Model 2
+Model View ViewModel
+Model�view�adapter
+Model�view�controller
+Model�view�presenter
+Monad (functional programming)
+Multiton pattern
+Multiuse Model View
+MVC4WPF
+// N
+Naked objects
+Non-virtual interface pattern
+Null Object pattern
+// O
+Object pool pattern
+Observer pattern
+// P
+Pipeline (software)
+Point of delivery (networking)
+Portland Pattern Repository
+Presentation�abstraction�control
+Private class data pattern
+Proactor pattern
+Process patterns
+Prototype pattern
+Provider model
+Proxy pattern
+Publish�subscribe pattern
+// R
+Reactor pattern
+Row data gateway
+// S
+Scheduled-task pattern
+Scheduler pattern
+Separation of presentation and content
+Servant (design pattern)
+Service locator pattern
+Single-serving visitor pattern
+Module pattern
+Singleton pattern
+Software framework
+Specification pattern
+State pattern
+Strategy pattern
+Structural pattern
+// T
+Table data gateway
+The Task-based Asynchronous Pattern
+Template method pattern
+Thread pool pattern
+Type Tunnel pattern
+// U
+UI data binding
+Utility pattern
+// V
+Visitor pattern
+// W
+Workflow patterns
+*/
+
+/*
+Active Object
+Data access object
+Data transfer object
+Differentiated service
+Double dispatch
+Double-chance function
+Double-checked locking
+Exception chaining
+Fluent interface
+Guarded suspension
+Hash consing
+Initialization-on-demand holder idiom
+Inversion of control
+Lazy inheritance
+Mangler
+Marker interface
+Message broker
+Naked objects
+Null Object
+Pipeline
+Point of delivery
+Presentation�abstraction�control
+Provider model
+Row data gateway
+Separation of presentation and content
+Table data gateway
+UI data binding
+
+
+
+// pattern
+Active record
+Amelioration
+Archetype
+Back-off
+Balking
+Broker
+Circuit breaker
+Criteria
+Curiously recurring template
+Data mapper
+Debugging
+Dispose
+Extensibility
+Front Controller
+Head�body
+Hierarchical visitor
+Identity map
+Multiton
+Non-virtual interface
+Object pool
+Private class data
+Process
+Publish�subscribe
+Reactor
+Scheduled-task
+Scheduler
+Service locator
+Specification
+The Task-based Asynchronous
+Type Tunnel
+Utility pattern
+Workflow
+
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
